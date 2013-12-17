@@ -1,0 +1,29 @@
+Log of ls 
+Tue Dec 17 22:56:29 2013
+
+audio.a2dp.default.so
+audio_path.adda.mrvl.so
+audio_path.fm.mrvl.so
+audio_path.hifi.mrvl.so
+audio_path.vc.mrvl.so
+audio_path.voip.mrvl.so
+audio_path.vt.mrvl.so
+audio_policy.default.so
+audio_policy.mrvl.so
+audio.primary.default.so
+audio.primary.mrvl.so
+camera.mrvl.so
+csr.cpd.so
+gps.default.so
+gralloc.default.so
+gralloc.mrvl.so
+hwcomposer.mrvl.so
+keystore.default.so
+lights.mrvl.so
+local_time.default.so
+nfc.pxa988.so
+power.default.so
+sensors.mrvl.so
+
+Tue Dec 17 22:56:29 2013
+----------------

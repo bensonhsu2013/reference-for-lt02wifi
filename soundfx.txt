@@ -1,0 +1,12 @@
+Log of ls 
+Tue Dec 17 22:57:25 2013
+
+libaudiopreprocessing.so
+libbundlewrapper.so
+libdownmix.so
+libmrvlpreprocessing.so
+libreverbwrapper.so
+libvisualizer.so
+
+Tue Dec 17 22:57:25 2013
+----------------

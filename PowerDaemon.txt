@@ -1,0 +1,15 @@
+Log of ls 
+Tue Dec 17 22:57:03 2013
+
+delegate_cpu.so
+delegate_ddr.so
+delegate_gpu.so
+delegate_shcmd.so
+plugin_android.so
+plugin_camera.so
+plugin_coda.so
+plugin_input.so
+plugin_thermal.so
+
+Tue Dec 17 22:57:03 2013
+----------------

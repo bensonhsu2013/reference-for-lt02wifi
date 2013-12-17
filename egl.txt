@@ -1,0 +1,11 @@
+Log of ls 
+Tue Dec 17 22:55:52 2013
+
+egl.cfg
+libEGL_MRVL.so
+libGLES_android.so
+libGLESv1_CM_MRVL.so
+libGLESv2_MRVL.so
+
+Tue Dec 17 22:55:52 2013
+----------------

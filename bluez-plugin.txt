@@ -1,0 +1,10 @@
+Log of ls 
+Tue Dec 17 22:53:57 2013
+
+audio.so
+bluetooth-health.so
+input.so
+network.so
+
+Tue Dec 17 22:53:57 2013
+----------------

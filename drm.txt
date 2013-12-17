@@ -1,0 +1,10 @@
+Log of ls 
+Tue Dec 17 22:55:22 2013
+
+libdivxplugin.so
+libdrmwvmplugin.so
+libomaplugin.so
+libplayreadyplugin.so
+
+Tue Dec 17 22:55:22 2013
+----------------
